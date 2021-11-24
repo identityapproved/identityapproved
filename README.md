@@ -1,9 +1,21 @@
-### Hi there 👋
+<pre>
+                           .___________________________________________________________.
+                          /                                                             \      \\\.  ____  .///
+                         /  ___    o        o o                          o    o     ___  \      \ .-'    '-. / 
+   \\\.  ____  .///     |  /   \   |        | |                          |    |   /   \  |  ./-./.'\__/\__/'.\ 
+    \ .-'    '-. /      | |\_.  |  O--o o-o | | o-o     o   o   oo-o o-o |  o-O  |    /| | <   |:<__><__><__>:|==--
+    /.'\__/\__/'.\.-\.  |\|  | /|  |  | |-' | | | |      \ / \ / | | |   | |  |  |\  | |/|  '\-'\'./  \/  \.'/
+ -=|:<__><__><__>:|   > | `___' |  o  o o-o o o o-o       o   o  o-o o   o  o-o  | `___' |      / '-.____.-' \
+    \'./  \/  \.'/'-/'  |       |________________________________________________|       |     ///'        '\\\
+    / '-.____.-\ \      \       |                                                |       / 
+   ///'        '\\\      \     /                                                  \     /  
+                          `___'                                                    `___'
+</pre>
 
-<!--
-**identityapproved/identityapproved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Weekly development breakdown**
 
-Here are some ideas to get you started:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +25,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
