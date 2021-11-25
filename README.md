@@ -32,14 +32,18 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+#### ...and solving  
+  <a target="_blank" href="https://www.codewars.com/users/identityapproved">
+      <img alt="Codewars badge" src="https://www.codewars.com/users/identityapproved/badges/large">
+  </a>
 
 #### ᕙ(⇀‸↼‶)ᕗ Opened for new job opportunities.
 <i>Take a look at my repositories, and let's get in touch.</i> → 
-<a href="https://www.linkedin.com/in/identityapproved">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a target="_blank" href="https://www.linkedin.com/in/identityapproved">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:identityapproved@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a target="_blank" href="mailto:identityapproved@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 ##### Weekly Development Breakdown (º ﹃ º ) 
