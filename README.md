@@ -32,9 +32,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-#### ...and solving  
+#### ...and solving ヾ(-_- )ゞ
   <a target="_blank" href="https://www.codewars.com/users/identityapproved">
-      <img alt="Codewars badge" src="https://www.codewars.com/users/identityapproved/badges/large">
+      <img alt="Codewars badge" src="https://www.codewars.com/users/identityapproved/badges/small">
   </a>
 
 #### ᕙ(⇀‸↼‶)ᕗ Opened for new job opportunities.
@@ -46,7 +46,7 @@
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-##### Weekly Development Breakdown (º ﹃ º ) 
+#### Weekly Development Breakdown (º ﹃ º ) 
 <!--START_SECTION:waka-->
 ```text
 Markdown   30 mins         █████████████████████████   100.00 % 
