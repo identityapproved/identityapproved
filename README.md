@@ -49,7 +49,6 @@ Markdown   30 mins         █████████████████�
 ```
 <!--END_SECTION:waka-->
 
-<hr>
 <details>
 <summary>Top Langs.</summary>
 <p align="center">
@@ -63,4 +62,3 @@ Markdown   30 mins         █████████████████�
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=identityapproved&show_icons=true&theme=tokyonight" alt="github-stats" />
 </p>
 </details>
-</hr>
