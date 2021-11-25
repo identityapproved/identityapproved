@@ -33,7 +33,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<div align="center">
 #### ᕙ(⇀‸↼‶)ᕗ Opened for new job opportunities.
 <i>Take a look at my repositories, and let's get in touch.</i> → 
 <a href="https://www.linkedin.com/in/identityapproved">
@@ -42,7 +41,6 @@
 <a href="mailto:identityapproved@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</div>
 
 ##### Weekly Development Breakdown (º ﹃ º ) 
 <!--START_SECTION:waka-->
@@ -62,7 +60,7 @@ Markdown   30 mins         █████████████████�
 <summary>Github stats.</summary>
 <p align="center">
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=identityapproved&theme=tokyonight_duo" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=identityapproved&show_icons=true&theme=github_dark" alt="github-stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=identityapproved&show_icons=true&theme=tokyonight" alt="github-stats" />
 </p>
 </details>
 </hr>
