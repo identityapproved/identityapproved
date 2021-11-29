@@ -52,7 +52,8 @@
 #### Weekly Development Breakdown (º ﹃ º ) 
 <!--START_SECTION:waka-->
 ```text
-Markdown   30 mins         █████████████████████████   100.00 % 
+JavaScript   35 mins         █████████████▒░░░░░░░░░░░   53.97 % 
+Markdown     30 mins         ███████████▓░░░░░░░░░░░░░   46.03 % 
 ```
 <!--END_SECTION:waka-->
 
