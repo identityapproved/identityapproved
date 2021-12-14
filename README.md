@@ -49,11 +49,10 @@
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<p align="center">*<i>...you can also support me → </i>
+<i font-size: 50;>...you can also support me → </i>
 <a target="_blank" href="https://www.buymeacryptocoffee.xyz/0xfca4d13560be38da54c5125e8116424fd150a403">
-  <img alt="BuyMeACryptoCoffee" src="https://www.buymeacryptocoffee.xyz/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fassets%2Fcryptocoffee.868ce694c22fdd05bad1bfb878731f5d.svg&w=96&q=75"/>
+  <img width="73" height="52"alt="BuyMeACryptoCoffee" src="https://www.buymeacryptocoffee.xyz/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fassets%2Fcryptocoffee.868ce694c22fdd05bad1bfb878731f5d.svg&w=96&q=75"/>
 </a>
-</p>
 
 #### Weekly Development Breakdown (º ﹃ º ) 
 <!--START_SECTION:waka-->
