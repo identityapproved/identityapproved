@@ -57,10 +57,10 @@
 #### Weekly Development Breakdown (º ﹃ º ) 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 3 mins    █████████████████████▒░░░   85.24 % 
-JSON         48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Bash         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+JavaScript   6 hrs 6 mins    ████████████████████▓░░░░   82.56 % 
+JSON         41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Bash         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 <!--END_SECTION:waka-->
 
