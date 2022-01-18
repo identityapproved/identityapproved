@@ -57,10 +57,10 @@
 #### Weekly Development Breakdown (º ﹃ º ) 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 34 mins   ██████████████████████▒░░   89.26 % 
-Docker       29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+JavaScript   3 hrs 47 mins   ████████████████████░░░░░   80.56 % 
+Docker       29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+SCSS         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 <!--END_SECTION:waka-->
 
