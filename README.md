@@ -52,10 +52,10 @@
 #### Weekly Development Breakdown (º ﹃ º ) 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 10 mins   █████████████░░░░░░░░░░░░   51.56 % 
-CSS          2 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+JavaScript   6 hrs 10 mins   █████████████░░░░░░░░░░░░   51.58 % 
+CSS          2 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
 HTML         2 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-SCSS         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 <!--END_SECTION:waka-->
