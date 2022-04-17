@@ -36,7 +36,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 #### ...and solving ヾ(-_- )ゞ
   <a target="_blank" href="https://www.codewars.com/users/identityapproved">
-      <img alt="Codewars badge" src="https://www.codewars.com/users/identityapproved/badges/small">
+      <img alt="Codewars badge" src="https://www.codewars.com/users/identityapproved/badges/large">
   </a>
 
 #### ᕙ(⇀‸↼‶)ᕗ Opened for new job opportunities.
@@ -53,16 +53,6 @@
 
 #### Weekly Development Breakdown (º ﹃ º ) 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   4 hrs 12 mins   ███████████████▓░░░░░░░░░   62.93 %
-JSON         1 hr 43 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.86 %
-Markdown     33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
-SCSS         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-```
-
 <!--END_SECTION:waka-->
 
 <details>
