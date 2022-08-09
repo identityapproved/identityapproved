@@ -12,7 +12,7 @@
    '--'                                                                     '--'      
 </pre>
 
-##### ( ´◔ ω◔`) ノシ Hi, I'm Mykhailo, a frontend engineer from Kyiv(Ukraine). Dedicated to being fullstack.
+##### ( ´◔ ω◔`) ノシ Hi, I'm Mykhailo, a frontend engineer from Kyiv(Ukraine).
 
 #### ( ˇ෴ˇ ) Languages and Tools:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="46px"></span>&nbsp;
@@ -62,18 +62,6 @@
 <a target="_blank" href="https://t.me/identityapproved">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-
-#### Weekly Development Breakdown (º ﹃ º ) 
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   5 hrs 45 mins   ██████████████░░░░░░░░░░░   56.35 %
-TypeScript   1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
-JSON         59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-Other        55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-```
-
-<!--END_SECTION:waka-->
 
 <details>
 <summary>Top Langs.</summary>
