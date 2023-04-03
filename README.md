@@ -1,23 +1,20 @@
 <pre>
-    ._________________________________________________________________________.
-   /      23            23 23                                   23     23      \       \\\.  ____  .///
-  / ___   23            23 23                                   23     23   ___ \       \ .-'    '-. / 
- | /   \. 2323b.  .db.  23 23 .d23b.   23  23  23 .d23b. 23d232 32  .d323  /   \ |   ./-./.'\__/\__/'.\ 
- ||\_.  | 23 "2b d3  2b 32 32 d3""2b   32  32  32 d3""2b 3P"    23 d2" 32 |  ._/||  <   |:<__><__><__>:|=--
- ||__|_/| 23  23 232323 23 23 23  23   23  23  23 23  23 23     23 23  23 |\_|__||   '\-'\'./  \/  \.'/
- |      | 23  23 Y2.    32 32 Y3..2P   Y3b 23 d2P Y3..2P 32     32 Y3b 23 |      |       / '-.____.-' \
- |      | 23  23  "Y23  23 23 "Y23P"    "Y2323P"  "Y23P" 23     23  "Y232 |      |      ///'        '\\\
- \      |_________________________________________________________________|      /
-  \    /                                                                   \    / 
-   '--'                                                                     '--'      
+ __    __ __           __     __                                     
+|  \  |  \  \         |  \   |  \                                    
+| ▓▓  | ▓▓\▓▓        _| ▓▓_  | ▓▓____   ______   ______   ______     
+| ▓▓__| ▓▓  \       |   ▓▓ \ | ▓▓    \ /      \ /      \ /      \    
+| ▓▓    ▓▓ ▓▓        \▓▓▓▓▓▓ | ▓▓▓▓▓▓▓\  ▓▓▓▓▓▓\  ▓▓▓▓▓▓\  ▓▓▓▓▓▓\   
+| ▓▓▓▓▓▓▓▓ ▓▓         | ▓▓ __| ▓▓  | ▓▓ ▓▓    ▓▓ ▓▓   \▓▓ ▓▓    ▓▓   
+| ▓▓  | ▓▓ ▓▓__       | ▓▓|  \ ▓▓  | ▓▓ ▓▓▓▓▓▓▓▓ ▓▓     | ▓▓▓▓▓▓▓▓__ 
+| ▓▓  | ▓▓ ▓▓  \       \▓▓  ▓▓ ▓▓  | ▓▓\▓▓     \ ▓▓      \▓▓     \  \
+ \▓▓   \▓▓\▓▓ ▓▓        \▓▓▓▓ \▓▓   \▓▓ \▓▓▓▓▓▓▓\▓▓       \▓▓▓▓▓▓▓\▓▓
 </pre>
 
-##### ( ´◔ ω◔`) ノシ Hi, I'm Mykhailo, a frontend engineer from Kyiv(Ukraine).
+##### ( ´◔ ω◔`)ノシ Welcome to my profile! I'm Misha, a full-stack developer from Kyiv.
 
 #### ( ˇ෴ˇ ) Languages and Tools:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="46px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46px"></span>&nbsp;
@@ -25,20 +22,24 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="46px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="46px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="46px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="46px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="46px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="46px"></span>&nbsp;
+
 
 #### (⌐⊙_⊙) I'm currently learning:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
