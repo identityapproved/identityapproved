@@ -40,18 +40,6 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="46px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="46px"></span>&nbsp;
 
-
-#### (⌐⊙_⊙) I'm currently learning:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-#### ...and solving ヾ(-_- )ゞ
-  <a target="_blank" href="https://www.codewars.com/users/identityapproved">
-      <img alt="Codewars badge" src="https://www.codewars.com/users/identityapproved/badges/large">
-  </a>
-
 #### ᕙ(⇀‸↼‶)ᕗ Opened for new job opportunities.
 <i>Take a look at my repositories, and let's get in touch.</i> → 
 <a target="_blank" href="https://www.linkedin.com/in/identityapproved">
