@@ -10,7 +10,7 @@
  \▓▓   \▓▓\▓▓ ▓▓        \▓▓▓▓ \▓▓   \▓▓ \▓▓▓▓▓▓▓\▓▓       \▓▓▓▓▓▓▓\▓▓
 </pre>
 
-##### ( ´◔ ω◔`)ノシ Welcome to my profile! I'm Misha, a full-stack developer from Kyiv.
+##### ( ´◔ ω◔`)ノシ Welcome to my profile!
 
 #### ( ˇ෴ˇ ) Languages and Tools:
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="46px"></span>&nbsp;
